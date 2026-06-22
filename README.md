@@ -58,6 +58,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
@@ -90,6 +91,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
 | ------- |

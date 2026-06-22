@@ -22,6 +22,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |

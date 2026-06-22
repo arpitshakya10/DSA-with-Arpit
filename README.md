@@ -59,6 +59,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking

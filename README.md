@@ -66,6 +66,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1550-three-consecutive-odds](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -108,4 +109,8 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | ------- |
 | [0401-binary-watch](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

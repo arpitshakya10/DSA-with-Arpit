@@ -90,4 +90,12 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->

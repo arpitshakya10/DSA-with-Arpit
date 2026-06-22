@@ -17,6 +17,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 <!---LeetCode Topics End-->

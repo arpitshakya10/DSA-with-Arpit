@@ -15,6 +15,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,11 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0507-perfect-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

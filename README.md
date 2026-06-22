@@ -51,6 +51,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [1550-three-consecutive-odds](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1920-build-array-from-permutation) |
 | [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming

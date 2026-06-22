@@ -30,6 +30,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0070-climbing-stairs) |

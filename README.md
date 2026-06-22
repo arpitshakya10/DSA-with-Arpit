@@ -28,6 +28,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0263-ugly-number) |
@@ -52,6 +53,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
@@ -62,4 +64,8 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

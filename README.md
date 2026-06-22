@@ -37,6 +37,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0263-ugly-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0507-perfect-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -70,6 +72,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
 ## Memoization
 |  |
 | ------- |

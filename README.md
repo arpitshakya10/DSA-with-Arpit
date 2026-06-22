@@ -29,6 +29,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0258-add-digits) |
@@ -50,6 +51,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Dynamic Programming

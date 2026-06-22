@@ -17,6 +17,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1512-number-of-good-pairs) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0507-perfect-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
 ## Two Pointers
@@ -68,6 +70,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0540-single-element-in-a-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1512-number-of-good-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -118,4 +121,8 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1672-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

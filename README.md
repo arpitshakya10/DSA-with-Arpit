@@ -44,4 +44,20 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+## Greedy
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+## Sorting
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->

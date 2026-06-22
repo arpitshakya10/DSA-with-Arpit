@@ -26,5 +26,6 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->

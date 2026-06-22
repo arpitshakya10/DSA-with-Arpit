@@ -42,6 +42,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 ## Simulation
 |  |
@@ -54,6 +55,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |

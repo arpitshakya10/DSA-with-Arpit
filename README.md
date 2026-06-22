@@ -36,6 +36,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0258-add-digits](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3024-type-of-triangle) |
@@ -104,4 +105,5 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0258-add-digits](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0507-perfect-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |

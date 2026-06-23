@@ -6,10 +6,12 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0025-reverse-nodes-in-k-group) |
 ## Hash Table
 |  |

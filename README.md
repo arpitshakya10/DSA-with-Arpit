@@ -18,6 +18,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1512-number-of-good-pairs) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -70,6 +71,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0066-plus-one](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -132,4 +134,9 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

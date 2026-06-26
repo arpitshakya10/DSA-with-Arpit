@@ -75,6 +75,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 | [0540-single-element-in-a-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1480-running-sum-of-1d-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1672-richest-customer-wealth) |
@@ -105,6 +106,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/1480-running-sum-of-1d-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |

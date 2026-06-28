@@ -16,6 +16,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@ A structured archive of my problem-solving journey in DSA and LeetCode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arpitshakya10/DSA-with-Arpit/tree/master/0035-search-insert-position) |
